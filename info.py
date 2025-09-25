@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/profile.jpg"
+profile_picture = "Images/profile.JPG"
 about_me = "Hello, my name is Nathan Soganich and I am a first year undergraduate Industrial engineering major at Georgia Tech "
 
 
