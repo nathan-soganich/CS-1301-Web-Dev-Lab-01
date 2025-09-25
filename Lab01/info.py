@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/profile.jpg"
+profile_picture = "Images/profile.JPG"
 about_me = "Hello, my name is Nathan Soganich and I am a first year undergraduate Industrial engineering major at Georgia Tech "
 
 
@@ -26,7 +26,7 @@ education_data ={
 }
 course_data = {
     "code":["CS 1301", "ENGL 1101", "MATH 1553", "PSYC 1101"], 
-    "names":["Intro to CS", "English Composition 1", "Intro to Linear Algebra", "Intro to Genereal Psychology"], 
+    "names":["Intro to CS", "English Composition 1", "Intro to Linear Algebra", "Intro to General Psychology"], 
     "semester_taken":["2nd", "3rd", "2nd", "2nd"],
     "skills":["Fundamentals of programming and Python.", "Rhetorical and information based writing for persuasion", "Fundamentals of linear algebra, mostly row reduction.", "Fundamentals of history of psychology, and our understanding of the mind."],
     }
@@ -41,7 +41,7 @@ experience_data = {
 }
 
 projects_data = {
-    "Fly Girls Lessons": "Did backgroiund research, needs analysis, and developed a series of lessons teaching elementary and middle school girls how to fly and program drones for the Fly Girls program.",
+    "Fly Girls Lessons": "Did background research, needs analysis, and developed a series of lessons teaching elementary and middle school girls how to fly and program drones for the Fly Girls program.",
 }
 
 programming_data = {
